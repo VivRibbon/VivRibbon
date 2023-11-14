@@ -1,4 +1,4 @@
-My name is Moira Oona Morse! I'm a programmer, poet, and digital humanist interested in making tools for writing, working with text, and poetry, as well as data science and generalist programming. Feel free to reach out at giantsilkmoth@proton.me!
+My name is Moira Oona Campbell! I'm a programmer, poet, and digital humanist interested in making tools for writing, working with text, and poetry, as well as data science and generalist programming. Feel free to reach out at giantsilkmoth@proton.me!
 
 I work frequently in Python and Rust and am a bit of a Lisp enthusiast but I also love picking up and exploring new languages.
 
